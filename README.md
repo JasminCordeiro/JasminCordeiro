@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 
 - 🔭 I'm currently studying at UFOP (FEDERAL UNIVERSITY OF OURO PRETO) in the "Sistemas de Informação" (Information Systems) course.  
 - 🌱 I'm currently learning Java with Spring Boot and JavaScript.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>   
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="35" height="35"/>   
 - 📫 How to reach me:
 - <div>
   <a href = "https://www.linkedin.com/in/jasmincordeiro/" target="_blank"><img loading="lazy" src= "https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -35,3 +36,4 @@ Here are some ideas to get you started:
 </div>
 
 
+![Snake animation](https://github.com/JassminCordeiro/JassminCordeiro/blob/output/github-contribution-grid-snake.svg)
