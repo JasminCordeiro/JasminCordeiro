@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - <div style="display: inline_block">
   <img align="center" alt="Jass-J" width="35" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  />
   <img align="center" alt="Jass-JS" width="35" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Jass-S" width="35" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />   
+<!--  <img align="center" alt="Jass-S" width="35" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />   -->
 
 </div>
 
