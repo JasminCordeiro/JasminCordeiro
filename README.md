@@ -1,4 +1,3 @@
-
 # Hello, my name is Jasmin Cordeiro.
 ## Welcome to my GitHub Profile 👋
 
@@ -10,13 +9,13 @@
   <img align="center" alt="Jass-JS" width="35" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 </div>
-
 - 📫 How to reach me:
 - <div>
   <a href = "https://www.linkedin.com/in/jasmincordeiro/" target="_blank"><img align="center" loading="lazy" src= "https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "https://www.instagram.com/jasmincordeiro/" target="_blank"><img align="center" loading="lazy" src= "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jasmincordeiro12@gmail.com"><img align="center" loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
 
 <div>
 <a href="https://github.com/JasminCordeiro">
