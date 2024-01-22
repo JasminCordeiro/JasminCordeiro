@@ -10,7 +10,7 @@
 
 </div>
 - 📫 How to reach me:
-- <div>
+<div>
 
   </br>
     
