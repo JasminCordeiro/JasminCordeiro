@@ -9,7 +9,7 @@
   <img align="center" alt="Jass-JS" width="35" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 </div>
-- 📫 How to reach me:
+ 📫 How to reach me:
 <div>
 
   </br>
