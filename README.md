@@ -24,4 +24,4 @@
 </div>
 
 
-<!--snake-->
+![snake gif](https://github.com/JasminCordeiro/JasminCordeiro/blob/output/github-contribution-grid-snake.svg)
