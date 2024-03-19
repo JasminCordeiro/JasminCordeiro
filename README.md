@@ -2,7 +2,7 @@
 ## Welcome to my GitHub Profile 👋.    
 
 - 🔭 I'm currently studying at UFOP (FEDERAL UNIVERSITY OF OURO PRETO) in the "Sistemas de Informação" (Information Systems) course.  
-- 🌱 I'm currently learning Angular + Spring
+- 🌱 I'm currently learning Angular + Spring  
 
 - <div style="display: inline_block"> 
   <img align="center" alt="Jass-J" width="35" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  />
