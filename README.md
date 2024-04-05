@@ -8,7 +8,7 @@
   <img align="center" alt="Jass-J" width="35" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  />
   <img align="center" alt="Jass-JS" width="35" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>.  
- 📫 How to reach me:   
+ 📫 How to reach me:    
 <div>
   </br>
   <a href = "https://www.linkedin.com/in/jasmincordeiro/" target="_blank"><img align="center" loading="lazy" src= "https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br/> <br/>
