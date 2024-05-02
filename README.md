@@ -5,8 +5,15 @@
 - 🌱 I'm currently learning Angular  
 
 - <div style="display: inline_block"> 
-  <img align="center" alt="Jass-J" width="35" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  />
-  <img align="center" alt="Jass-JS" width="35" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Jass-HTML5" width="35" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  />
+  <img align="center" alt="Jass-CSS3" width="35" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  />
+  <img align="center" alt="Jass-JavaScript" width="35" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Jass-Angular" width="35" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />
+  <img align="center" alt="Jass-Php" width="35" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="Jass-Java" width="35" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  />
+  <img align="center" alt="Jass-Python" width="35" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  />
+  
+  
 </div>
 
  📫 How to reach me:    
