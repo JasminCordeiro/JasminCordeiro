@@ -1,8 +1,7 @@
 # Hello, my name is Jasmin Cordeiro.
 ## Welcome to my GitHub Profile 👋. 
 
-- 🔭 I'm currently studying at UFOP (FEDERAL UNIVERSITY OF OURO PRETO) in the "Sistemas de Informação" (Information Systems) course.  
-- 🌱 I'm currently learning Angular  
+- 🔭 I'm currently studying at UFOP (FEDERAL UNIVERSITY OF OURO PRETO) in the "Sistemas de Informação" (Information Systems) course. 
 
 - <div style="display: inline_block"> 
   <img align="center" alt="Jass-HTML5" width="35" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  />
