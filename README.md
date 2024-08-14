@@ -1,7 +1,9 @@
 # Hello, my name is Jasmin Cordeiro.
 ## Welcome to my GitHub Profile 👋. 
 
-- 🔭 I'm currently studying at UFOP (FEDERAL UNIVERSITY OF OURO PRETO) in the "Sistemas de Informação" (Information Systems) course. 
+- 🔭 I'm currently studying at UFOP (FEDERAL UNIVERSITY OF OURO PRETO) in the "Sistemas de Informação" (Information Systems) course.
+
+## My skills:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,ts,cs,java)](https://skillicons.dev)
 
  📫 How to reach me:    
