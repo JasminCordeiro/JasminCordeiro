@@ -2,16 +2,7 @@
 ## Welcome to my GitHub Profile 👋. 
 
 - 🔭 I'm currently studying at UFOP (FEDERAL UNIVERSITY OF OURO PRETO) in the "Sistemas de Informação" (Information Systems) course. 
-- <div style="display: inline_block"> 
-  <img align="center" alt="Jass-HTML5" width="35" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  />
-  <img align="center" alt="Jass-CSS3" width="35" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  />
-  <img align="center" alt="Jass-JavaScript" width="35" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Jass-Angular" width="36" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />
-  <img align="center" alt="Jass-Java" width="36" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  />
-
-
-  
-</div>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,ts,cs,java)](https://skillicons.dev)
 
  📫 How to reach me:    
 <div>
