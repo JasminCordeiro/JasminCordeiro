@@ -6,16 +6,7 @@
 ## My skills:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,ts,cs,java)](https://skillicons.dev)
 
- 📫 How to reach me:    
-<div>
-  
-  <a href = "https://www.linkedin.com/in/jasmincordeiro/" target="_blank"><img align="center" loading="lazy" src= "https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  <a href = "mailto:jasmincordeiro12@gmail.com"><img align="center" loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-</div>
-
 ## Portfolio: https://jasmincordeiro.vercel.app/
-
 <br/>
 <div>
 <a href="https://github.com/JasminCordeiro">
