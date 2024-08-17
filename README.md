@@ -6,6 +6,7 @@
 <div align="center">
   <h2>My skills:</h2>
 </div>
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,ts,cs,java)](https://skillicons.dev)
 
 ## Portfolio: https://jasmincordeiro.vercel.app/
