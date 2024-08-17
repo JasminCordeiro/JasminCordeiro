@@ -4,7 +4,7 @@
 - 🔭 I'm currently studying at UFOP (FEDERAL UNIVERSITY OF OURO PRETO) in the "Sistemas de Informação" (Information Systems) course.
 
 <div align="center">
-  <h2>My skills:</h2>
+  <h2>My skills</h2>
 </div>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,ts,cs,java)](https://skillicons.dev)
